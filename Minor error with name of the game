@@ -1,0 +1,7 @@
+URL: https://www.nexusmods.com/games
+Username on the Nexus: SteamReaper
+Bug/error being reported: Missed "r" in the headline of game "Sid Meier's Civilization IV: Colonization"
+Steps to reproduce: Add "r"
+Expected result: "Sid Meier's Civilization IV: Colonization"
+Actual result: "Sid Meie Civilization IV: Colonization"
+Link to the affected mod/image (if relevant): https://www.nexusmods.com/games
